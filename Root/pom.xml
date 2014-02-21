@@ -7,7 +7,9 @@
 	<packaging>pom</packaging>
 	<name>Root</name>
 	<description>root project just empy proj for groupig</description>
+	
 	<modules>
-					<module>BookRest2</module>
+		<module>BookRest2</module>
+		<module>CacheProjWithValidation</module>
 	</modules>
 </project>  
